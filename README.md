@@ -1,2 +1,2 @@
-# cursojsx
- Gerenciador de tarefas bem basiquinho com reactJS
+# Task Manager
+ Gerenciador de tarefas bem básico com reactJS
