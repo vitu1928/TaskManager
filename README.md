@@ -19,11 +19,11 @@
 <div>
     <h2>Tecnologias</h2>
     <ul type="none">
-        <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-        <li><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-        <li><a href="https://pt-br.reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-        <li><a href="https://nodejs.org/pt-br/"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
-        <li><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+        <a href="https://pt-br.reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+        <a href="https://nodejs.org/pt-br/"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     </ul>
 </div>
 
@@ -42,13 +42,13 @@
         <table>
             <tr>
                 <td>Página inicial - tarefas</td>
-                <td>...</td>
                 <td>Informações de uma tarefa</td>
+                <td>Marcação das tarefas concluídas</td>
             </tr>
             <tr>
-                <td><img src="screenshots/.png" width=270 height=480></td>
-                <td><img src="screenshots/.png" width=270 height=480></td>
-                <td><img src="screenshots/.png" width=270 height=480></td>
+                <td><img src="screenshots/tela_inicial.png"></td>
+                <td><img src="screenshots/info_tarefa.png"></td>
+                <td><img src="screenshots/conclusao_tarefa.png"></td>
             </tr>
         </table>
     </div>
