@@ -29,15 +29,6 @@
 
 <div>
     <div>
-        <h2>Features</h2>
-        <ul>
-            <li>[x] Criar Tarefa</li>
-            <li>[x] Deletar Tarefa</li>
-            <li>[x] Checar informações de uma Tarefa</li>
-            <li>[x] Marcar conclusão de uma Tarefa</li>
-        </ul>
-    </div>
-    <div>
         <h2>Preview</h2>
         <table>
             <tr>
@@ -51,6 +42,15 @@
                 <td><img src="screenshots/conclusao_tarefa.png"></td>
             </tr>
         </table>
+    </div>
+    <div>
+        <h2>Features</h2>
+        <ul>
+            <li>[x] Criar Tarefa</li>
+            <li>[x] Deletar Tarefa</li>
+            <li>[x] Checar informações de uma Tarefa</li>
+            <li>[x] Marcar conclusão de uma Tarefa</li>
+        </ul>
     </div>
 </div>
 <br />
