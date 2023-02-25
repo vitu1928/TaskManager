@@ -8,6 +8,7 @@
     <p align="center">
         <a href="#objetivo">Objetivo</a> •
         <a href="#tecnologias">Tecnologias</a> •
+        <a href="#preview">Preview</a> •
         <a href="#features">Features</a> •
         <a href="#autor">Autor</a>
     </p>
